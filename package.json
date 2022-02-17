@@ -1,0 +1,14 @@
+{
+  "name": "com.yanicksenn.unity.console",
+  "version": "1.0.0",
+  "displayName": "Unity-Console",
+  "description": "This package contains the console module.",
+  "unity": "2020.3",
+  "unityRelease": "14f1",
+  "dependencies": {},
+  "keywords": [ ],
+  "author": {
+    "name": "Yanick Senn",
+    "email": "info@yanicksenn.com"
+  }
+}
