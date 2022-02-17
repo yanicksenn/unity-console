@@ -71,9 +71,11 @@ After the untiy event was invoked the following output will appear in the editor
 No messages will be printed to the console when it is set to inactive.
 
 ![Toggle active](./Documentation/toggle-active.png)
+
 _Active console_
 
 ![Toggle inactive](./Documentation/toggle-inactive.png)
+
 _Inactive console_
 
 Lazy logging ensures that no messages are generated while normal logging always generates a message but will only print it when the console is active.
