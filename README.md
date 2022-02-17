@@ -33,7 +33,6 @@ Is is possible to use lazy logging or normal logging, although it is recommended
 | `LazyWarning(() => ...)` | `Warning(...)` |
 | `LazyError(() => ...)`   | `Error(...)`   |
 
-
 ```c#
 public class MyBehaviour : MonoBehaviour
 {
@@ -79,4 +78,3 @@ _Active console_
 _Inactive console_
 
 Lazy logging ensures that no messages are generated while normal logging always generates a message but will only print it when the console is active.
-
