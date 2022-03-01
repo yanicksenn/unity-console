@@ -1,10 +1,9 @@
 using System.Collections;
 using NUnit.Framework;
-using UnityEditor.VersionControl;
 using UnityEngine;
 using UnityEngine.TestTools;
 
-namespace CraipaiGames.Console.Tests
+namespace Console.Tests
 {
     public class ConsoleTest
     {

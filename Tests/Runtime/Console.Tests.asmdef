@@ -1,18 +1,17 @@
 {
-    "name": "CraipaiGames.Console.Tests",
-    "rootNamespace": "CraipaiGames.Console.Tests",
+    "name": "Console.Tests",
+    "rootNamespace": "Console.Tests",
     "references": [
         "UnityEngine.TestRunner",
         "UnityEditor.TestRunner",
-        "CraipaiGames.Console"
+        "Console"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": true,
     "precompiledReferences": [
-        "nunit.framework.dll",
-        "Sirenix.OdinInspector.Attributes.dll"
+        "nunit.framework.dll"
     ],
     "autoReferenced": false,
     "defineConstraints": [

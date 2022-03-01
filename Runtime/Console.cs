@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace CraipaiGames.Console
+namespace Console
 {
     [CreateAssetMenu(menuName = "Console/Create console", fileName = "Console")]
     public class Console : ScriptableObject
