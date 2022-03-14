@@ -7,7 +7,7 @@ namespace Console
     public class Console : ScriptableObject
     {
         [SerializeField] 
-        private bool active;
+        private bool active = true;
         public bool Active
         {
             get => active;
