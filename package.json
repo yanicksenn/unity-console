@@ -2,7 +2,7 @@
   "name": "com.yanicksenn.unity.console",
   "version": "1.2.0",
   "displayName": "Unity-Console",
-  "description": "This package contains the console module.",
+  "description": "Unity3d package allowing the toggling of console output and debugging of UnityEvents.",
   "unity": "2020.3",
   "unityRelease": "14f1",
   "dependencies": {},

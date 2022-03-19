@@ -1,5 +1,5 @@
 # Unity Console
-Unity3d console allowing the toggling of console output and debugging of UnityEvents.
+Unity3d package allowing the toggling of console output and debugging of UnityEvents.
 
 Feedback is welcome.
 
